@@ -32,7 +32,7 @@ The project runs on a local Kubernetes cluster created with `kind` and demonstra
 
 ## Other Projects
 
-### [cat_and_grep_utils](https://github.com/vtarykin/cat_and_grep_utils)
+### [Cat and grep utils](https://github.com/vtarykin/cat_and_grep_utils)
 
 Simplified implementations of the basic Unix command-line utilities `cat` and `grep`, written in C.
 
