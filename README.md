@@ -30,6 +30,18 @@ A Java/Spring Boot application used to build a practical DevOps environment focu
 
 The project runs on a local Kubernetes cluster created with `kind` and demonstrates the integration of delivery automation, orchestration, monitoring, and alerting.
 
+### [Linux Bash Monitoring Toolkit](https://github.com/vtarykin/linux_bash_monitoring)
+
+A collection of Bash utilities for Linux system administration, system information reporting, and filesystem analysis.
+
+- **System Administration:** Collects Linux system information, including OS details, uptime, network configuration, memory usage, and root filesystem capacity.
+- **Automation:** Generates human-readable system reports and structured JSON output for integration with other scripts and tools.
+- **Filesystem Analysis:** Inspects directory contents, identifies file types, counts files and symbolic links, and reports the largest files and directories.
+- **Code Quality:** Uses ShellCheck for static analysis and Bats for automated testing.
+- **CI:** GitHub Actions automatically checks Bash syntax, runs ShellCheck, and executes the test suite on pushes and pull requests.
+
+The project focuses on modular shell scripting, reliable command-line utilities, error handling, and automated code quality checks for Linux environments.
+
 ## Other Projects
 
 ### [Cat and grep utils](https://github.com/vtarykin/cat_and_grep_utils)
