@@ -40,11 +40,11 @@ Simplified implementations of the basic Unix command-line utilities `cat` and `g
 - Implemented `vt_grep` for pattern-based text searching with options for case-insensitive matching, inverted search, match counting, and line numbering.
 - Used GCC and Make to build the utilities on Unix-like systems.
 
-### [Simple Navigator](https://gitlab.com/victor_tarykin/simple_navigator)
+### [Simple Navigator](https://github.com/victor_tarykin/simple_navigator)
 
 A Java project focused on navigation-related functionality.
 
-### [Rogue](https://gitlab.com/victor_tarykin/rogue)
+### [Rogue](https://github.com/victor_tarykin/rogue)
 
 A Java game project involving game logic and object-oriented programming.
 
